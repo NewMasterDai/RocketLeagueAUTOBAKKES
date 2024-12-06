@@ -11,7 +11,7 @@ Open it inside of Notepad and edit it so that the paths of Rocket League and Bak
 
 It should look something like this:
 
-![RocketLeagueAB bat txt — Notatnik 06 12 2024 20_08_02](https://github.com/user-attachments/assets/9f696cd7-480d-4616-9fde-5e46c9bc0e3b)
+![RocketLeagueAB bat txt](https://github.com/user-attachments/assets/9f696cd7-480d-4616-9fde-5e46c9bc0e3b)
 
 Save the file.
 
@@ -19,7 +19,7 @@ Edit the name and delete .txt extension
 
 Your file should look something like this:
 
-![Screenshot 06 12 2024 20_18_38](https://github.com/user-attachments/assets/86ed6f6c-ac46-46aa-b18a-cfbe05c0abeb)
+![Screensho](https://github.com/user-attachments/assets/86ed6f6c-ac46-46aa-b18a-cfbe05c0abeb)
 
 You can now leave the file in a suitable folder (preferrably either Bakkesmod or Rocket League's)
 
