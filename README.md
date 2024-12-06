@@ -1,6 +1,8 @@
 # RocketLeagueAUTOBAKKES
 Tired of launching Bakkesmod manually? Do you want it to open and close with the game instead of sitting there idly? No solution online works? Cooked up this piece of code just for you. Check this out.
 
+### DO NOT CLOSE THE CMD CONSOLE AFTER RUNNING THE SCRIPT OTHERWISE THE PROGRAM FAILS
+
 # TUTORIAL
 
 Download "RocketLeagueAB.bat.txt"
@@ -25,4 +27,4 @@ Next make a shortcut to it (for the safety of the file from accidental deletion 
 
 You can edit the icon/name of the shortcut to your liking.
 
-P.S. If you don't know how to do this just search it on Youtube, it's really not that complicated
+P.S. If you're having trouble with the "Optional" steps, refer to this documentation https://www.wikihow.com/Create-a-Desktop-Shortcut
