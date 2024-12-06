@@ -7,7 +7,7 @@ Tired of launching Bakkesmod manually? Do you want it to open and close with the
 
 Download "RocketLeagueAB.bat.txt"
 
-Open it inside of Notepad and edit it so that the paths of Rocket League and Bakkesmod match whatever is on your PC.
+Open it inside of Notepad and edit it so that the paths of Rocket League and Bakkesmod match whatever is on your PC
 
 It should look something like this:
 
@@ -20,6 +20,8 @@ Edit the name and delete .txt extension
 Your file should look something like this:
 
 ![Screenshot 06 12 2024 20_18_38](https://github.com/user-attachments/assets/86ed6f6c-ac46-46aa-b18a-cfbe05c0abeb)
+
+You can now leave the file in a suitable folder (preferrably either Bakkesmod or Rocket League's)
 
 # Optional
 
