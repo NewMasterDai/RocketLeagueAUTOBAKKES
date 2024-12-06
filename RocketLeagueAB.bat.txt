@@ -1,0 +1,19 @@
+@echo off
+
+start "" "D:\Gry Epic\rocketleague\Binaries\Win64\RocketLeague.exe"
+start "" "D:\Gry Epic\rocketleague\Bakkesmod\BakkesMod\BakkesMod.exe"
+
+timeout /t 30 /nobreak >nul
+
+:Monitor
+tasklist | find /i "RocketLeague.exe" >nul
+if errorlevel 1 (
+    echo RocketLeague.exe is not running. Terminating BakkesMod.exe...
+    taskkill /im "BakkesMod.exe" /f >nul 2>&1
+    goto End
+)
+timeout /t 1 /nobreak >nul
+goto Monitor
+
+:End
+echo Monitoring stopped.
